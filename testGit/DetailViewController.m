@@ -69,4 +69,7 @@
     self.masterPopoverController = nil;
 }
 
+- (IBAction)test:(id)sender {
+}
+
 @end
